@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EyM6Gfpjg6SyG+++CogsRL5PeGO8VRMvLhyudMYvdCc=",
+  "Source": "Codelearn.Services.AuthAPI",
+  "BasePath": "_content/Codelearn.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
